@@ -17,9 +17,11 @@ Claire Ziewitz Gilbert
 Kevin Bui
 Komila Mirolimova 
 Denzel Robinson
-
+Roger Vieira
 
 ​
 Build week is a full week experince that empowers students to demonstrate mastery
 of learning objectives. 
 This experience will help prepare and give us knowledge for our careers.
+
+http://spotifyreco.herokuapp.com/
